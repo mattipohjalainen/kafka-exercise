@@ -1,1 +1,1 @@
-rootProject.name = "spring-kafka-kotlin"
+rootProject.name = "alarm-exercise"
